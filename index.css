@@ -20,9 +20,9 @@ body.portal {
 
 .logo-img {
     padding-top: 10%;
-    width: 100%;
-    height: 35%;
-    z-index: 10;
+    width: 70%;
+    height: 20%;
+    z-index: 8;
     position: relative;
 }
 
